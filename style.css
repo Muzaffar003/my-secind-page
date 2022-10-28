@@ -1,0 +1,69 @@
+h1{
+    justify-content: space-between;
+}
+
+.hom{
+    border-radius: 20px;
+}
+.section-3{
+    background-color: #FF5437;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.section-3 h1{
+    font-size: 100px;
+}
+.section-7
+{
+    color: white;
+}
+.section-7 .row .col-5{
+   padding-top: 60px;
+}
+.section-8 .row .col-3 h1{
+    font-size: 90px;
+    color: blue;
+}
+.section-8 .row .col-3 p{
+    color: blue;
+}
+.section-8 .row .col-3 .fox{
+    color: #FF5437;
+}
+.section-8 .row .col-3 .dox{
+    color: #FF9209;
+}
+.section-8 .row .col-3{
+    background-color: #F2F2F2;
+    padding: 60px;
+}
+.section-8 .row .col-3 .btn{
+    padding: 5px 20px;
+    color: white;
+}
+
+.section-8 .row .col-3:nth-child(2)  button{
+    background-color: #FF5437;
+    padding: 6px 23px;
+    border-radius: 10px;
+    border: none;
+}
+.section-8 .row .col-3:nth-child(3)  button{
+    background-color: #FF9209;
+    padding: 6px 23px;
+    border-radius: 10px;
+    border: none;
+}
+.section-9 .row .col-3{
+    background-color: white;
+    color: black;
+}
+.section-9{
+    background-color: #F2F2F2;
+}
+.section-11{
+    background-color: #E5E5E5;
+}
